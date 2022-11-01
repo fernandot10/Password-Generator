@@ -14,7 +14,7 @@
 
 ## Links to deployed site
 
-    (Deployed WebPage)
+https://fernandot10.github.io/Password-Generator/   (Deployed WebPage)
 https://github.com/fernandot10/Password-Generator   (Repository)
 
 
